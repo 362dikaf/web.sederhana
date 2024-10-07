@@ -1,7 +1,7 @@
 const products = [
     { id: 1, name: "Sandal", price: 25000, img: "sandal.jpg" },
     { id: 2, name: "Tas", price: 70000, img: "tas.jpg" },
-    { id: 3, name: "Sepatuu", price: 105000, img: "sepatu.jpg" }
+    { id: 3, name: "Sepatu", price: 105000, img: "sepatu.jpg" }
 ];
 
 let cart = [];
